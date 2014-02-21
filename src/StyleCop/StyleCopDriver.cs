@@ -4,9 +4,9 @@ using System.IO;
 using System.Linq;
 using System.Xml.Linq;
 using System.Xml.Xsl;
-using Microsoft.StyleCop;
+using StyleCop;
 
-namespace StyleCop
+namespace StyleCopCmd
 {
     /// <summary>
     /// Helper class used to drive StyleCop from the command line

@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace StyleCop
+namespace StyleCopCmd
 {
     /// <summary>
     /// Arguments for the ParameterError event

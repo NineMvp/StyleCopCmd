@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 
-namespace StyleCop
+namespace StyleCopCmd
 {
     /// <summary>
     /// Utility class to handle command line arguments

@@ -1,6 +1,6 @@
 using System;
 
-namespace StyleCop
+namespace StyleCopCmd
 {
     /// <summary>
     /// Cribbed from Oren Eini (ayende.com), provides an action to execute at the end of a block. 

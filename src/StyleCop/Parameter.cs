@@ -1,5 +1,5 @@
 ﻿
-namespace StyleCop
+namespace StyleCopCmd
 {
     /// <summary>
     /// Represents a command line parameter

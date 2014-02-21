@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace StyleCop
+namespace StyleCopCmd
 {
     /// <summary>
     /// Helper class used to define and parse command line parameters that take 

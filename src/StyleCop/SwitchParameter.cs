@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace StyleCop
+namespace StyleCopCmd
 {
     /// <summary>
     /// A Command line switch parameter 

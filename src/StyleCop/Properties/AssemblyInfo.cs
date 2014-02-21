@@ -5,12 +5,12 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("StyleCop")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyTitle("StyleCopCmd")]
+[assembly: AssemblyDescription("Support StyleCop v4.7 . Original source fromwww.nichesoftware.co.nz")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("StyleCop")]
-[assembly: AssemblyCopyright("Copyright © 2008")]
+[assembly: AssemblyCompany("MvcRocks.NET")]
+[assembly: AssemblyProduct("StyleCopCmd")]
+[assembly: AssemblyCopyright("Copyright © 2014")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 

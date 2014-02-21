@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace StyleCop
+namespace StyleCopCmd
 {
     /// <summary>
     /// Program entry point for the StyleCop command line
